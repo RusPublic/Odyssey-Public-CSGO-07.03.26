@@ -1,0 +1,115 @@
+"Phrases"
+{
+	//	Наименование блока из ( addons/sourcemod/configs/levels_ranks/settings_ranks.ini ) использует тот блок фраз переводов, где наименование совпадают
+	//	Пример: если блок ранга в settings_ranks.ini имеет наименование rank_3, то блок фраз перевода будет использоваться под названием rank_3
+	//		en - наименование звания для тех, кто пользуется английским языком в игре
+	//		ru - наименование звания для тех, кто пользуется русским языком в игре
+	//
+	//	Демонстранция использования :
+	//	Блок нужного ранга со значением из addons/sourcemod/configs/levels_ranks/settings_ranks.ini
+	//	"rank_3"
+	//	{
+	//		"value_2"		"900"
+	//		"value_1"		"800"
+	//		"value_0"		"25"
+	//	}
+	//
+	//	Блок нужного ранга с переводом из данной конфигурации
+	//	"rank_3"
+	//	{
+	//		"en"		"Silver III"
+	//		"ru"		"Серебро - III"
+	//	}
+	//
+
+	"rank_1"
+	{
+		"en"		"1 LVL FACEIT"
+		"ru"		"1 LVL FACEIT"
+		"ua"		"1 LVL FACEIT"
+		"chi"		"1 LVL FACEIT"
+		"es"		"1 LVL FACEIT"
+		"de"		"1 LVL FACEIT"
+	}
+	"rank_2"
+	{
+		"en"		"2 LVL FACEIT"
+		"ru"		"2 LVL FACEIT"
+		"ua"		"2 LVL FACEIT"
+		"chi"		"2 LVL FACEIT"
+		"es"		"2 LVL FACEIT"
+		"de"		"2 LVL FACEIT"
+	}
+	"rank_3"
+	{
+		"en"		"3 LVL FACEIT"
+		"ru"		"3 LVL FACEIT"
+		"ua"		"3 LVL FACEIT"
+		"chi"		"3 LVL FACEIT"
+		"es"		"3 LVL FACEIT"
+		"de"		"3 LVL FACEIT"
+	}
+	"rank_4"
+	{
+		"en"		"4 LVL FACEIT"
+		"ru"		"4 LVL FACEIT"
+		"ua"		"4 LVL FACEIT"
+		"chi"		"4 LVL FACEIT"
+		"es"		"4 LVL FACEIT"
+		"de"		"4 LVL FACEIT"
+	}
+	"rank_5"
+	{
+		"en"		"5 LVL FACEIT"
+		"ru"		"5 LVL FACEIT"
+		"ua"		"5 LVL FACEIT"
+		"chi"		"5 LVL FACEIT"
+		"es"		"5 LVL FACEIT"
+		"de"		"5 LVL FACEIT"
+	}
+	"rank_6"
+	{
+		"en"		"6 LVL FACEIT"
+		"ru"		"6 LVL FACEIT"
+		"ua"		"6 LVL FACEIT"
+		"chi"		"6 LVL FACEIT"
+		"es"		"6 LVL FACEIT"
+		"de"		"6 LVL FACEIT"
+	}
+	"rank_7"
+	{
+		"en"		"7 LVL FACEIT"
+		"ru"		"7 LVL FACEIT"
+		"ua"		"7 LVL FACEIT"
+		"chi"		"7 LVL FACEIT"
+		"es"		"7 LVL FACEIT"
+		"de"		"7 LVL FACEIT"
+	}
+	"rank_8"
+	{
+		"en"		"8 LVL FACEIT"
+		"ru"		"8 LVL FACEIT"
+		"ua"		"8 LVL FACEIT"
+		"chi"		"8 LVL FACEIT"
+		"es"		"8 LVL FACEIT"
+		"de"		"8 LVL FACEIT"
+	}
+	"rank_9"
+	{
+		"en"		"9 LVL FACEIT"
+		"ru"		"9 LVL FACEIT"
+		"ua"		"9 LVL FACEIT"
+		"chi"		"9 LVL FACEIT"
+		"es"		"9 LVL FACEIT"
+		"de"		"9 LVL FACEIT"
+	}
+	"rank_10"
+	{
+		"en"		"10 LVL FACEIT"
+		"ru"		"10 LVL FACEIT"
+		"ua"		"10 LVL FACEIT"
+		"chi"		"10 LVL FACEIT"
+		"es"		"10 LVL FACEIT"
+		"de"		"10 LVL FACEIT"
+	}
+}
