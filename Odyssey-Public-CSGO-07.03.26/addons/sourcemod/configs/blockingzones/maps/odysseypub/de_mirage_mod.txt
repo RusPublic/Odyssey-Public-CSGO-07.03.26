@@ -1,0 +1,179 @@
+"maps"
+{
+	"1"
+	{
+		"Pos"		"-1032.590820 -346.365692 -367.968750"
+		"Ang"		"0.000000 90.000000 1.000000"
+		"Invisibility"		"255"
+		"model"		"models/props_fortifications/concrete_wall001_96_reference.mdl"
+		"quota"		"10"
+	}
+	"2"
+	{
+		"Pos"		"-971.310364 -342.523712 -367.968750"
+		"Ang"		"0.000000 90.000000 1.000000"
+		"Invisibility"		"255"
+		"model"		"models/props_fortifications/concrete_wall001_96_reference.mdl"
+		"quota"		"10"
+	}
+	"3"
+	{
+		"Pos"		"587.966003 708.335327 -135.968719"
+		"Ang"		"0.000000 90.000000 1.000000"
+		"Invisibility"		"255"
+		"model"		"models/props_fortifications/concrete_wall001_96_reference.mdl"
+		"quota"		"10"
+	}
+	"4"
+	{
+		"Pos"		"-831.279175 22.376923 -168.634354"
+		"Ang"		"0.036666 -0.018150 0.999163"
+		"Invisibility"		"255"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"5"
+	{
+		"Pos"		"-758.912415 22.586838 -168.650925"
+		"Ang"		"-0.038428 0.017100 0.999115"
+		"Invisibility"		"255"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"6"
+	{
+		"Pos"		"-759.389465 18.063171 -111.951042"
+		"Ang"		"-0.000665 -0.017437 0.999848"
+		"Invisibility"		"255"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"7"
+	{
+		"Pos"		"-829.045532 21.501831 -111.871910"
+		"Ang"		"0.000634 -0.017438 0.999848"
+		"Invisibility"		"255"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"8"
+	{
+		"Pos"		"-758.036133 17.110764 -55.188560"
+		"Ang"		"-0.000017 -0.017450 0.999848"
+		"Invisibility"		"255"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"9"
+	{
+		"Pos"		"-828.310181 20.963531 -55.102196"
+		"Ang"		"0.000006 -0.017450 0.999848"
+		"Invisibility"		"255"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"10"
+	{
+		"Pos"		"-893.974976 25.468336 -54.729561"
+		"Ang"		"0.000000 0.000000 1.000000"
+		"Invisibility"		"255"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"11"
+	{
+		"Pos"		"-892.547607 24.948164 2.040443"
+		"Ang"		"-0.000000 -0.017452 0.999848"
+		"Invisibility"		"255"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"12"
+	{
+		"Pos"		"-828.221680 20.060303 1.661148"
+		"Ang"		"-0.000005 -0.017450 0.999848"
+		"Invisibility"		"255"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"13"
+	{
+		"Pos"		"-756.955261 17.420425 1.595932"
+		"Ang"		"-0.000006 -0.017450 0.999848"
+		"Invisibility"		"255"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"14"
+	{
+		"Pos"		"-891.514221 24.734606 58.815804"
+		"Ang"		"-0.000005 -0.017450 0.999848"
+		"Invisibility"		"255"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"15"
+	{
+		"Pos"		"-826.911743 20.636690 58.450306"
+		"Ang"		"-0.000006 -0.017450 0.999848"
+		"Invisibility"		"255"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"16"
+	{
+		"Pos"		"-757.832397 16.439989 58.357903"
+		"Ang"		"-0.000006 -0.017450 0.999848"
+		"Invisibility"		"255"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"17"
+	{
+		"Pos"		"-889.144409 23.527756 115.573837"
+		"Ang"		"-0.000006 -0.017450 0.999848"
+		"Invisibility"		"255"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"18"
+	{
+		"Pos"		"-825.681152 21.381254 115.242378"
+		"Ang"		"-0.000006 -0.017450 0.999848"
+		"Invisibility"		"255"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"19"
+	{
+		"Pos"		"-756.387329 15.866469 115.126984"
+		"Ang"		"-0.000006 -0.017450 0.999848"
+		"Invisibility"		"255"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"20"
+	{
+		"Pos"		"-1603.107788 -737.326782 -167.968750"
+		"Ang"		"0.000000 90.000000 1.000000"
+		"Invisibility"		"255"
+		"model"		"models/props_fortifications/concrete_wall001_96_reference.mdl"
+		"quota"		"10"
+	}
+	"21"
+	{
+		"Pos"		"-1104.751709 -1511.204346 111.936081"
+		"Ang"		"90.707108 0.707107 -90.000000"
+		"Invisibility"		"255"
+		"model"		"models/props_fortifications/concrete_wall001_96_reference.mdl"
+		"quota"		"10"
+	}
+	"22"
+	{
+		"Pos"		"-1014.533081 -1543.968750 102.593689"
+		"Ang"		"90.000000 1.000000 -90.000000"
+		"Invisibility"		"255"
+		"model"		"models/props_fortifications/concrete_wall001_96_reference.mdl"
+		"quota"		"10"
+	}
+}

@@ -1,0 +1,75 @@
+"maps"
+{
+	"1"
+	{
+		"Pos"		"-1320.920044 2702.141113 127.768585"
+		"Ang"		"0.006388 0.000900 0.999979"
+		"Invisibility"		"255"
+		"model"		"models/props_fortifications/concrete_wall001_96_reference.mdl"
+		"quota"		"10"
+	}
+	"2"
+	{
+		"Pos"		"-1319.745483 2653.006104 127.805321"
+		"Ang"		"0.006388 0.000900 0.999979"
+		"Invisibility"		"255"
+		"model"		"models/props_fortifications/concrete_wall001_96_reference.mdl"
+		"quota"		"10"
+	}
+	"3"
+	{
+		"Pos"		"-1319.095215 2699.243408 303.775818"
+		"Ang"		"0.000111 -0.017452 0.999848"
+		"Invisibility"		"0"
+		"model"		"models/props_fortifications/concrete_wall001_96_reference.mdl"
+		"quota"		"10"
+	}
+	"4"
+	{
+		"Pos"		"-1318.826050 2627.756104 303.422485"
+		"Ang"		"0.000111 -0.017452 0.999848"
+		"Invisibility"		"0"
+		"model"		"models/props_fortifications/concrete_wall001_96_reference.mdl"
+		"quota"		"10"
+	}
+	"5"
+	{
+		"Pos"		"-1327.360352 2200.212402 1.453522"
+		"Ang"		"-0.095941 44.979420 0.995174"
+		"Invisibility"		"255"
+		"model"		"models/props_fortifications/concrete_wall001_96_reference.mdl"
+		"quota"		"10"
+	}
+	"6"
+	{
+		"Pos"		"-1680.749390 721.529663 30.613420"
+		"Ang"		"-0.039257 89.984543 0.999109"
+		"Invisibility"		"255"
+		"model"		"models/props_fortifications/concrete_wall001_96_reference.mdl"
+		"quota"		"10"
+	}
+	"7"
+	{
+		"Pos"		"-1629.200195 717.064392 31.572723"
+		"Ang"		"-0.014081 90.015686 0.999778"
+		"Invisibility"		"255"
+		"model"		"models/props_fortifications/concrete_wall001_96_reference.mdl"
+		"quota"		"10"
+	}
+	"8"
+	{
+		"Pos"		"-522.569641 1396.344238 -112.582268"
+		"Ang"		"-0.055004 0.000000 0.998486"
+		"Invisibility"		"255"
+		"model"		"models/props_fortifications/concrete_wall001_96_reference.mdl"
+		"quota"		"10"
+	}
+	"9"
+	{
+		"Pos"		"-521.230713 1458.110474 -112.218773"
+		"Ang"		"-0.023691 0.000000 0.999719"
+		"Invisibility"		"255"
+		"model"		"models/props_fortifications/concrete_wall001_96_reference.mdl"
+		"quota"		"10"
+	}
+}

@@ -1,0 +1,451 @@
+"maps"
+{
+	"1"
+	{
+		"Pos"		"83.390137 993.981201 76.070763"
+		"Ang"		"0.000000 -0.035692 0.999363"
+		"Invisibility"		"255"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"2"
+	{
+		"Pos"		"152.485184 993.843567 76.362198"
+		"Ang"		"0.000000 -0.192745 0.981249"
+		"Invisibility"		"255"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"3"
+	{
+		"Pos"		"82.806549 992.234497 132.819351"
+		"Ang"		"-0.000011 -0.017441 0.999848"
+		"Invisibility"		"255"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"4"
+	{
+		"Pos"		"154.120850 992.015991 133.109756"
+		"Ang"		"-0.000058 -0.017125 0.999853"
+		"Invisibility"		"255"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"5"
+	{
+		"Pos"		"82.114258 990.826172 189.573883"
+		"Ang"		"-0.000006 -0.017450 0.999848"
+		"Invisibility"		"255"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"6"
+	{
+		"Pos"		"153.352814 990.803467 189.867661"
+		"Ang"		"-0.000006 -0.017450 0.999848"
+		"Invisibility"		"255"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"7"
+	{
+		"Pos"		"1379.549316 2734.979492 131.244598"
+		"Ang"		"-0.063209 0.052055 0.996642"
+		"Invisibility"		"255"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"8"
+	{
+		"Pos"		"1381.960327 2799.883057 127.566277"
+		"Ang"		"-0.006642 0.011407 0.999913"
+		"Invisibility"		"255"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"9"
+	{
+		"Pos"		"1376.807983 2869.142578 127.449982"
+		"Ang"		"-0.006431 -0.013137 0.999893"
+		"Invisibility"		"255"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"10"
+	{
+		"Pos"		"1377.516235 2938.429932 128.000000"
+		"Ang"		"0.000000 0.000000 1.000000"
+		"Invisibility"		"255"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"11"
+	{
+		"Pos"		"1375.878418 2999.130371 128.022903"
+		"Ang"		"-0.005903 0.000000 0.999983"
+		"Invisibility"		"255"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"12"
+	{
+		"Pos"		"1378.423340 2735.951416 188.039413"
+		"Ang"		"-0.001087 -0.017395 0.999848"
+		"Invisibility"		"255"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"13"
+	{
+		"Pos"		"1382.579224 2797.923096 184.311295"
+		"Ang"		"-0.000113 -0.017451 0.999848"
+		"Invisibility"		"255"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"14"
+	{
+		"Pos"		"1376.585815 2900.829102 184.782043"
+		"Ang"		"-0.000116 -0.017451 0.999848"
+		"Invisibility"		"255"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"15"
+	{
+		"Pos"		"1377.395020 2846.714355 183.837677"
+		"Ang"		"-0.000116 -0.017451 0.999848"
+		"Invisibility"		"255"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"16"
+	{
+		"Pos"		"1378.138916 2957.682861 185.115204"
+		"Ang"		"-0.000000 -0.017452 0.999848"
+		"Invisibility"		"255"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"17"
+	{
+		"Pos"		"1377.508911 2735.151367 244.804520"
+		"Ang"		"-0.000024 -0.017450 0.999848"
+		"Invisibility"		"255"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"18"
+	{
+		"Pos"		"1381.369507 2795.737549 241.052231"
+		"Ang"		"-0.000007 -0.017450 0.999848"
+		"Invisibility"		"255"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"19"
+	{
+		"Pos"		"1377.567017 2857.077393 240.797592"
+		"Ang"		"-0.000007 -0.017450 0.999848"
+		"Invisibility"		"255"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"20"
+	{
+		"Pos"		"1375.894653 2919.593018 241.888611"
+		"Ang"		"-0.000007 -0.017450 0.999848"
+		"Invisibility"		"255"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"21"
+	{
+		"Pos"		"1378.053345 2974.052490 242.179993"
+		"Ang"		"-0.000005 -0.017450 0.999848"
+		"Invisibility"		"255"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"22"
+	{
+		"Pos"		"1377.396851 2733.612793 301.556763"
+		"Ang"		"-0.000006 -0.017450 0.999848"
+		"Invisibility"		"255"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"23"
+	{
+		"Pos"		"1381.821167 2793.432617 297.791077"
+		"Ang"		"-0.000006 -0.017450 0.999848"
+		"Invisibility"		"255"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"24"
+	{
+		"Pos"		"1377.886841 2855.418945 297.547729"
+		"Ang"		"-0.000006 -0.017450 0.999848"
+		"Invisibility"		"255"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"25"
+	{
+		"Pos"		"1375.365112 2916.936523 298.621338"
+		"Ang"		"-0.000006 -0.017450 0.999848"
+		"Invisibility"		"255"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"26"
+	{
+		"Pos"		"1378.959351 2974.145508 298.960632"
+		"Ang"		"-0.000006 -0.017450 0.999848"
+		"Invisibility"		"255"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"27"
+	{
+		"Pos"		"1377.349365 2732.729736 358.320312"
+		"Ang"		"-0.000006 -0.017450 0.999848"
+		"Invisibility"		"0"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"28"
+	{
+		"Pos"		"1382.130737 2791.699951 354.539886"
+		"Ang"		"-0.000006 -0.017450 0.999848"
+		"Invisibility"		"0"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"29"
+	{
+		"Pos"		"1378.051392 2853.563721 354.294434"
+		"Ang"		"-0.000006 -0.017450 0.999848"
+		"Invisibility"		"0"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"30"
+	{
+		"Pos"		"1375.946045 2914.612793 355.359741"
+		"Ang"		"-0.000006 -0.017450 0.999848"
+		"Invisibility"		"0"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"31"
+	{
+		"Pos"		"1379.186890 2972.627686 355.713318"
+		"Ang"		"-0.000006 -0.017450 0.999848"
+		"Invisibility"		"0"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"32"
+	{
+		"Pos"		"1377.694214 2731.406250 415.076416"
+		"Ang"		"-0.000006 -0.017450 0.999848"
+		"Invisibility"		"0"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"33"
+	{
+		"Pos"		"1382.473145 2790.139893 411.291809"
+		"Ang"		"-0.000006 -0.017450 0.999848"
+		"Invisibility"		"0"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"34"
+	{
+		"Pos"		"1378.364868 2851.469482 411.036987"
+		"Ang"		"-0.000006 -0.017450 0.999848"
+		"Invisibility"		"0"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"35"
+	{
+		"Pos"		"1376.370239 2911.981445 412.092987"
+		"Ang"		"-0.000006 -0.017450 0.999848"
+		"Invisibility"		"0"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"36"
+	{
+		"Pos"		"1379.651978 2971.857666 412.478882"
+		"Ang"		"-0.000006 -0.017450 0.999848"
+		"Invisibility"		"0"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"37"
+	{
+		"Pos"		"1378.194214 2729.687500 471.825439"
+		"Ang"		"-0.000006 -0.017450 0.999848"
+		"Invisibility"		"0"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"38"
+	{
+		"Pos"		"1382.951416 2788.319336 468.039124"
+		"Ang"		"-0.000006 -0.017450 0.999848"
+		"Invisibility"		"0"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"39"
+	{
+		"Pos"		"1378.630737 2849.158203 467.775787"
+		"Ang"		"-0.000006 -0.017450 0.999848"
+		"Invisibility"		"0"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"40"
+	{
+		"Pos"		"1377.551392 2910.151123 468.840088"
+		"Ang"		"-0.000006 -0.017450 0.999848"
+		"Invisibility"		"0"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"41"
+	{
+		"Pos"		"1379.946167 2970.166504 469.228455"
+		"Ang"		"-0.000006 -0.017450 0.999848"
+		"Invisibility"		"0"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"42"
+	{
+		"Pos"		"1378.617310 2728.123535 528.577332"
+		"Ang"		"-0.000006 -0.017450 0.999848"
+		"Invisibility"		"0"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"43"
+	{
+		"Pos"		"1383.471313 2786.460449 524.785767"
+		"Ang"		"-0.000006 -0.017450 0.999848"
+		"Invisibility"		"0"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"44"
+	{
+		"Pos"		"1378.708984 2847.673584 524.528931"
+		"Ang"		"-0.000006 -0.017450 0.999848"
+		"Invisibility"		"0"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"45"
+	{
+		"Pos"		"1378.054321 2908.087158 525.583252"
+		"Ang"		"-0.000006 -0.017450 0.999848"
+		"Invisibility"		"0"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"46"
+	{
+		"Pos"		"1380.270020 2968.963135 525.986572"
+		"Ang"		"-0.000006 -0.017450 0.999848"
+		"Invisibility"		"0"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"47"
+	{
+		"Pos"		"1378.445557 2726.495117 585.328003"
+		"Ang"		"-0.000006 -0.017450 0.999848"
+		"Invisibility"		"0"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"48"
+	{
+		"Pos"		"1383.530762 2784.785400 581.535706"
+		"Ang"		"-0.000006 -0.017450 0.999848"
+		"Invisibility"		"0"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"49"
+	{
+		"Pos"		"1379.197876 2846.004150 581.278931"
+		"Ang"		"-0.000006 -0.017450 0.999848"
+		"Invisibility"		"0"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"50"
+	{
+		"Pos"		"1377.780396 2906.809570 582.339966"
+		"Ang"		"-0.000006 -0.017450 0.999848"
+		"Invisibility"		"0"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"51"
+	{
+		"Pos"		"1379.307007 2967.142822 582.733887"
+		"Ang"		"-0.000006 -0.017450 0.999848"
+		"Invisibility"		"0"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"52"
+	{
+		"Pos"		"1380.158569 2964.823975 639.472534"
+		"Ang"		"-0.000006 -0.017450 0.999848"
+		"Invisibility"		"0"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"53"
+	{
+		"Pos"		"1378.274414 2904.394531 639.076965"
+		"Ang"		"-0.000006 -0.017450 0.999848"
+		"Invisibility"		"0"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"54"
+	{
+		"Pos"		"1379.282104 2843.525146 638.014771"
+		"Ang"		"-0.000006 -0.017450 0.999848"
+		"Invisibility"		"0"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"55"
+	{
+		"Pos"		"1383.342651 2782.687500 638.278198"
+		"Ang"		"-0.000006 -0.017450 0.999848"
+		"Invisibility"		"0"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"56"
+	{
+		"Pos"		"1377.780273 2724.365479 642.069946"
+		"Ang"		"-0.000006 -0.017450 0.999848"
+		"Invisibility"		"0"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+}

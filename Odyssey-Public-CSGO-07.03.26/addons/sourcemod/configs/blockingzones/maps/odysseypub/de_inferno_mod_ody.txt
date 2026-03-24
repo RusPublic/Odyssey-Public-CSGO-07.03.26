@@ -1,0 +1,179 @@
+"maps"
+{
+	"1"
+	{
+		"Pos"		"90.490799 1004.111572 76.432541"
+		"Ang"		"0.000000 89.964294 0.999363"
+		"Invisibility"		"255"
+		"model"		"models/props_fortifications/concrete_wall001_96_reference.mdl"
+		"quota"		"10"
+	}
+	"2"
+	{
+		"Pos"		"155.926468 992.129456 76.025444"
+		"Ang"		"0.000000 89.807274 0.981249"
+		"Invisibility"		"255"
+		"model"		"models/props_fortifications/concrete_wall001_96_reference.mdl"
+		"quota"		"10"
+	}
+	"3"
+	{
+		"Pos"		"1551.657227 2761.210938 127.821236"
+		"Ang"		"-0.007404 0.014806 0.999863"
+		"Invisibility"		"204"
+		"model"		"models/props_fortifications/concrete_wall001_96_reference.mdl"
+		"quota"		"10"
+	}
+	"4"
+	{
+		"Pos"		"1558.949219 2847.889160 127.528061"
+		"Ang"		"-0.010084 -0.011637 0.999882"
+		"Invisibility"		"204"
+		"model"		"models/props_fortifications/concrete_wall001_96_reference.mdl"
+		"quota"		"10"
+	}
+	"5"
+	{
+		"Pos"		"1557.575073 2914.973145 127.999985"
+		"Ang"		"0.000000 0.000000 1.000000"
+		"Invisibility"		"204"
+		"model"		"models/props_fortifications/concrete_wall001_96_reference.mdl"
+		"quota"		"10"
+	}
+	"6"
+	{
+		"Pos"		"1553.897217 2972.961914 136.445251"
+		"Ang"		"-0.041621 -0.049779 0.997893"
+		"Invisibility"		"204"
+		"model"		"models/props_fortifications/concrete_wall001_96_reference.mdl"
+		"quota"		"10"
+	}
+	"7"
+	{
+		"Pos"		"1557.447632 2764.772461 303.942169"
+		"Ang"		"-0.000125 -0.017450 0.999848"
+		"Invisibility"		"204"
+		"model"		"models/props_fortifications/concrete_wall001_96_reference.mdl"
+		"quota"		"10"
+	}
+	"8"
+	{
+		"Pos"		"1565.661011 2849.367188 303.613129"
+		"Ang"		"-0.000179 -0.017450 0.999848"
+		"Invisibility"		"204"
+		"model"		"models/props_fortifications/concrete_wall001_96_reference.mdl"
+		"quota"		"10"
+	}
+	"9"
+	{
+		"Pos"		"1561.770020 2931.869629 305.824829"
+		"Ang"		"0.999999 -0.000869 0.000726"
+		"Invisibility"		"204"
+		"model"		"models/props_fortifications/concrete_wall001_96_reference.mdl"
+		"quota"		"10"
+	}
+	"10"
+	{
+		"Pos"		"1552.410400 2652.971436 463.829742"
+		"Ang"		"0.447214 0.000000 0.894427"
+		"Invisibility"		"204"
+		"model"		"models/props_fortifications/concrete_wall001_96_reference.mdl"
+		"quota"		"10"
+	}
+	"11"
+	{
+		"Pos"		"1565.465942 2722.958008 477.657227"
+		"Ang"		"1.000000 -0.000305 0.000002"
+		"Invisibility"		"204"
+		"model"		"models/props_fortifications/concrete_wall001_96_reference.mdl"
+		"quota"		"10"
+	}
+	"12"
+	{
+		"Pos"		"1565.487671 2794.791260 472.724487"
+		"Ang"		"1.000000 -0.000305 0.000002"
+		"Invisibility"		"204"
+		"model"		"models/props_fortifications/concrete_wall001_96_reference.mdl"
+		"quota"		"10"
+	}
+	"13"
+	{
+		"Pos"		"1573.694214 2857.803223 475.445740"
+		"Ang"		"1.000000 -0.000305 0.000003"
+		"Invisibility"		"204"
+		"model"		"models/props_fortifications/concrete_wall001_96_reference.mdl"
+		"quota"		"10"
+	}
+	"14"
+	{
+		"Pos"		"1572.672607 2914.369141 470.294922"
+		"Ang"		"0.999848 -0.000015 -0.017452"
+		"Invisibility"		"204"
+		"model"		"models/props_fortifications/concrete_wall001_96_reference.mdl"
+		"quota"		"10"
+	}
+	"15"
+	{
+		"Pos"		"1572.771606 2969.423340 475.919617"
+		"Ang"		"0.999848 -0.000015 -0.017452"
+		"Invisibility"		"204"
+		"model"		"models/props_fortifications/concrete_wall001_96_reference.mdl"
+		"quota"		"10"
+	}
+	"16"
+	{
+		"Pos"		"1648.611084 1937.872192 160.031250"
+		"Ang"		"0.000000 90.000000 1.000000"
+		"Invisibility"		"204"
+		"model"		"models/props_fortifications/concrete_wall001_96_reference.mdl"
+		"quota"		"10"
+	}
+	"17"
+	{
+		"Pos"		"1374.413208 2826.201904 127.168015"
+		"Ang"		"-0.009480 0.013137 0.999869"
+		"Invisibility"		"204"
+		"model"		"models/props_equipment/cargo_container01.mdl"
+		"quota"		"10"
+	}
+	"18"
+	{
+		"Pos"		"1399.124146 2823.698242 255.197464"
+		"Ang"		"-0.000161 -0.017450 0.999848"
+		"Invisibility"		"204"
+		"model"		"models/props_equipment/cargo_container01.mdl"
+		"quota"		"10"
+	}
+	"19"
+	{
+		"Pos"		"1427.166138 2824.582275 383.282257"
+		"Ang"		"-0.000008 -0.017450 0.999848"
+		"Invisibility"		"204"
+		"model"		"models/props_equipment/cargo_container01.mdl"
+		"quota"		"10"
+	}
+	"20"
+	{
+		"Pos"		"1638.901001 2220.446777 160.031250"
+		"Ang"		"0.000000 90.000000 1.000000"
+		"Invisibility"		"204"
+		"model"		"models/props_fortifications/concrete_wall001_96_reference.mdl"
+		"quota"		"10"
+	}
+	"21"
+	{
+		"Pos"		"1298.387451 1331.890137 160.031250"
+		"Ang"		"0.000000 90.000000 1.000000"
+		"Invisibility"		"255"
+		"model"		"models/props_fortifications/concrete_wall001_96_reference.mdl"
+		"quota"		"10"
+	}
+	"22"
+	{
+		"Pos"		"1300.428833 1332.072021 336.053650"
+		"Ang"		"0.017452 90.000000 0.999848"
+		"Invisibility"		"255"
+		"model"		"models/props_fortifications/concrete_wall001_96_reference.mdl"
+		"quota"		"10"
+	}
+}

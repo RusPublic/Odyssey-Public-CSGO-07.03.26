@@ -1,0 +1,171 @@
+"maps"
+{
+	"1"
+	{
+		"Pos"		"-821.945801 24.724899 -168.934143"
+		"Ang"		"0.036667 -0.018150 0.999163"
+		"Invisibility"		"255"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"2"
+	{
+		"Pos"		"-823.491211 22.170959 -112.198662"
+		"Ang"		"0.000634 -0.017438 0.999848"
+		"Invisibility"		"255"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"3"
+	{
+		"Pos"		"-893.412231 23.328377 -54.729538"
+		"Ang"		"0.000000 0.000000 1.000000"
+		"Invisibility"		"255"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"4"
+	{
+		"Pos"		"-822.853577 19.317186 -55.469379"
+		"Ang"		"0.000006 -0.017450 0.999848"
+		"Invisibility"		"255"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"5"
+	{
+		"Pos"		"-893.163635 21.326050 2.014587"
+		"Ang"		"-0.000000 -0.017452 0.999848"
+		"Invisibility"		"255"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"6"
+	{
+		"Pos"		"-822.057312 17.061295 1.270355"
+		"Ang"		"-0.000005 -0.017450 0.999848"
+		"Invisibility"		"255"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"7"
+	{
+		"Pos"		"-751.360352 25.603195 -168.412079"
+		"Ang"		"-0.038428 0.017100 0.999115"
+		"Invisibility"		"255"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"8"
+	{
+		"Pos"		"-752.463501 23.056412 -111.678162"
+		"Ang"		"-0.000665 -0.017437 0.999848"
+		"Invisibility"		"255"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"9"
+	{
+		"Pos"		"-752.946655 20.840141 -54.937771"
+		"Ang"		"-0.000017 -0.017450 0.999848"
+		"Invisibility"		"255"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"10"
+	{
+		"Pos"		"-752.447571 19.096107 1.810913"
+		"Ang"		"-0.000006 -0.017450 0.999848"
+		"Invisibility"		"255"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"11"
+	{
+		"Pos"		"588.241150 742.884766 -135.968735"
+		"Ang"		"0.000000 0.000000 1.000000"
+		"Invisibility"		"255"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"12"
+	{
+		"Pos"		"587.731689 740.725525 -79.227356"
+		"Ang"		"-0.000000 -0.017452 0.999848"
+		"Invisibility"		"255"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"13"
+	{
+		"Pos"		"-1030.951904 -317.418060 -367.968750"
+		"Ang"		"0.000000 0.000000 1.000000"
+		"Invisibility"		"255"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"14"
+	{
+		"Pos"		"-972.709351 -317.876587 -367.968750"
+		"Ang"		"0.000000 0.000000 1.000000"
+		"Invisibility"		"255"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"15"
+	{
+		"Pos"		"-971.987732 -320.219849 -311.230591"
+		"Ang"		"-0.000000 -0.017452 0.999848"
+		"Invisibility"		"255"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"16"
+	{
+		"Pos"		"-1029.815308 -318.385712 -311.206543"
+		"Ang"		"-0.000000 -0.017452 0.999848"
+		"Invisibility"		"255"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"17"
+	{
+		"Pos"		"-1007.735413 -320.323914 -254.453522"
+		"Ang"		"-0.000005 -0.017450 0.999848"
+		"Invisibility"		"255"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"18"
+	{
+		"Pos"		"-1626.041260 -705.562012 -167.968765"
+		"Ang"		"0.000000 0.000000 1.000000"
+		"Invisibility"		"255"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"19"
+	{
+		"Pos"		"-1565.517700 -703.519775 -167.968750"
+		"Ang"		"0.000000 0.000000 1.000000"
+		"Invisibility"		"255"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"20"
+	{
+		"Pos"		"-1626.514160 -706.634277 -111.208389"
+		"Ang"		"-0.000000 -0.017452 0.999848"
+		"Invisibility"		"255"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+	"21"
+	{
+		"Pos"		"-1564.245728 -705.464050 -111.223602"
+		"Ang"		"-0.000000 -0.017452 0.999848"
+		"Invisibility"		"255"
+		"model"		"models/props/de_dust/stoneblock01b.mdl"
+		"quota"		"10"
+	}
+}

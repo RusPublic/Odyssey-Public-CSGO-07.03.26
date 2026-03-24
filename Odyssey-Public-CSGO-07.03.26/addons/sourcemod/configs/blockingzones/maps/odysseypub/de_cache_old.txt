@@ -1,0 +1,83 @@
+"maps"
+{
+	"1"
+	{
+		"Pos"		"-831.789429 -403.623871 1614.031250"
+		"Ang"		"0.000000 90.000000 1.000000"
+		"Invisibility"		"255"
+		"model"		"models/props_fortifications/concrete_wall001_96_reference.mdl"
+		"quota"		"10"
+	}
+	"2"
+	{
+		"Pos"		"-1006.408997 -404.226807 1614.031250"
+		"Ang"		"0.000000 90.000000 1.000000"
+		"Invisibility"		"255"
+		"model"		"models/props_fortifications/concrete_wall001_96_reference.mdl"
+		"quota"		"10"
+	}
+	"3"
+	{
+		"Pos"		"-918.562378 -403.319397 1614.031250"
+		"Ang"		"0.000000 90.000000 1.000000"
+		"Invisibility"		"255"
+		"model"		"models/props_fortifications/concrete_wall001_96_reference.mdl"
+		"quota"		"10"
+	}
+	"4"
+	{
+		"Pos"		"-434.300446 -722.792236 1796.031250"
+		"Ang"		"0.000000 0.000000 1.000000"
+		"Invisibility"		"255"
+		"model"		"models/props_fortifications/concrete_wall001_96_reference.mdl"
+		"quota"		"10"
+	}
+	"5"
+	{
+		"Pos"		"565.295532 -185.664688 1748.031250"
+		"Ang"		"0.000000 0.000000 1.000000"
+		"Invisibility"		"255"
+		"model"		"models/props/de_train/processor_nobase.mdl"
+		"quota"		"10"
+	}
+	"6"
+	{
+		"Pos"		"525.229553 -187.688461 1748.031250"
+		"Ang"		"0.000000 0.000000 1.000000"
+		"Invisibility"		"255"
+		"model"		"models/props/de_train/processor_nobase.mdl"
+		"quota"		"10"
+	}
+	"7"
+	{
+		"Pos"		"1195.266235 -162.445068 1612.031250"
+		"Ang"		"0.000000 90.000000 1.000000"
+		"Invisibility"		"255"
+		"model"		"models/props_fortifications/concrete_wall001_96_reference.mdl"
+		"quota"		"10"
+	}
+	"8"
+	{
+		"Pos"		"1126.733643 -161.220230 1612.031250"
+		"Ang"		"0.000000 90.000000 1.000000"
+		"Invisibility"		"255"
+		"model"		"models/props_fortifications/concrete_wall001_96_reference.mdl"
+		"quota"		"10"
+	}
+	"9"
+	{
+		"Pos"		"1481.521729 -646.639648 1612.031250"
+		"Ang"		"0.000000 0.000000 1.000000"
+		"Invisibility"		"255"
+		"model"		"models/props_fortifications/concrete_wall001_96_reference.mdl"
+		"quota"		"10"
+	}
+	"10"
+	{
+		"Pos"		"1480.490356 -715.985901 1612.031250"
+		"Ang"		"0.000000 0.000000 1.000000"
+		"Invisibility"		"255"
+		"model"		"models/props_fortifications/concrete_wall001_96_reference.mdl"
+		"quota"		"10"
+	}
+}

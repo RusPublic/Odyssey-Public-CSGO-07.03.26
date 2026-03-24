@@ -1,0 +1,43 @@
+"maps"
+{
+	"1"
+	{
+		"Pos"		"-47.068153 29.873087 -157.615875"
+		"Ang"		"91.000000 0.000000 0.000000"
+		"Invisibility"		"255"
+		"model"		"models/props/cs_office/file_cabinet3.mdl"
+		"quota"		"10"
+	}
+	"2"
+	{
+		"Pos"		"-47.068153 51.341095 -156.802612"
+		"Ang"		"91.000000 0.000000 0.000000"
+		"Invisibility"		"255"
+		"model"		"models/props/cs_office/file_cabinet3.mdl"
+		"quota"		"10"
+	}
+	"3"
+	{
+		"Pos"		"-47.068153 68.613853 -157.496719"
+		"Ang"		"91.000000 0.000000 0.000000"
+		"Invisibility"		"255"
+		"model"		"models/props/cs_office/file_cabinet3.mdl"
+		"quota"		"10"
+	}
+	"4"
+	{
+		"Pos"		"-47.068153 87.509132 -161.324692"
+		"Ang"		"91.000000 0.000000 0.000000"
+		"Invisibility"		"255"
+		"model"		"models/props/cs_office/file_cabinet3.mdl"
+		"quota"		"10"
+	}
+	"5"
+	{
+		"Pos"		"20.421803 29.366772 0.031250"
+		"Ang"		"0.000000 0.000000 1.000000"
+		"Invisibility"		"255"
+		"model"		"models/props/de_inferno/fountain.mdl"
+		"quota"		"10"
+	}
+}
